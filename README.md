@@ -1,4 +1,3 @@
-                                                         =======================================
 Classic Breakout game
 =======================================
 To run the game, include the parameters of frame rate and ball speed(%) after the file name. 
